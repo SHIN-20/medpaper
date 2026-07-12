@@ -12,7 +12,7 @@
 </style>
 </head>
 <body>
-  <h1>📝 論文の登録</h1>
+  <h1>論文の登録</h1>
   <p><a href="select.php">→ 一覧を見る</a></p>
 
   <form action="insert.php" method="post">
